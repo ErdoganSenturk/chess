@@ -32,7 +32,7 @@ body {
   height: 10vh;
   width: 10vw;
   background-color: white;
-  transition: transform 0.8;
+  transition: transform 0.8s;
   text-align: center;
   display: flex;
   align-items: center;
