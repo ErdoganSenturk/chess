@@ -27,6 +27,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 1px solid black;
 }
 .beyaz {
   height: 10vh;
@@ -37,6 +38,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 1px solid black;
 }
 .siyah:hover {
   transform: translateX(10px);
