@@ -2,4 +2,6 @@
  I think you like it..
 
 [click for preview the page](https://erdogansenturk.github.io/satranc/)
+
+
 ![](chess.gif)
